@@ -1,7 +1,7 @@
 # Pulling from quay.io
 
 ##Prerequisites
-The following prequistis are required run to the quay.io scripts:
+The following prerequisites are required run to the quay.io scripts:
 
 * [jq](https://stedolan.github.io/jq/) must be installed
 * A quay.io account

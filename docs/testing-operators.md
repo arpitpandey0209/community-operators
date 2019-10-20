@@ -31,7 +31,7 @@ where *my-operator* is the name of your Operator. If you don't have this format 
 
 [Testing with `scorecard`](#testing-with-scorecard)
 
-[Additional Ressources](#additional-resources)
+[Additional Resources](#additional-resources)
 
 ## Pre-Requisites
 

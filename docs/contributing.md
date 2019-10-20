@@ -19,7 +19,7 @@ To add your operator to any of the above platforms, you will need to submit your
 
 ### Bundle format
 
-Your Operator package will be formatted as a `bundle` which is a directory named after your Operator with all `CustomResourceDefinitions`, the `ClusterServiceVersion` and the package definiton in separate YAML manifests.
+Your Operator package will be formatted as a `bundle` which is a directory named after your Operator with all `CustomResourceDefinitions`, the `ClusterServiceVersion` and the package definition in separate YAML manifests.
 
 Follow this example, assuming your Operator bundle is called `my-operator`. The bundle name should also correspond to the `name` field in the CSV.
 
